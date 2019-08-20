@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj",
+        "projectName": "PizzaBox.Client",
+        "projectPath": "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj",
+        "packagesPath": "C:\\Users\\waful\\.nuget\\packages\\",
+        "outputPath": "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waful\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj": {
+                "projectPath": "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj",
+        "projectName": "PizzaBox.Domain",
+        "projectPath": "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Domain\\PizzaBox.Domain.csproj",
+        "packagesPath": "C:\\Users\\waful\\.nuget\\packages\\",
+        "outputPath": "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\waful\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
