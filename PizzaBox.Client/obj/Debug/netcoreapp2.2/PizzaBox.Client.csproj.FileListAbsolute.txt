@@ -5,10 +5,10 @@ C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\bin\Debug\netcoreapp2.2\PizzaB
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\bin\Debug\netcoreapp2.2\PizzaBox.Client.pdb
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\bin\Debug\netcoreapp2.2\PizzaBox.Domain.dll
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\bin\Debug\netcoreapp2.2\PizzaBox.Domain.pdb
-C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\PizzaBox.Client.csprojAssemblyReference.cache
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\PizzaBox.Client.csproj.CoreCompileInputs.cache
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\PizzaBox.Client.AssemblyInfoInputs.cache
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\PizzaBox.Client.AssemblyInfo.cs
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\PizzaBox.Client.csproj.CopyComplete
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\PizzaBox.Client.dll
 C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\PizzaBox.Client.pdb
+C:\revature\project-0\PizzaBoxApp\PizzaBox.Client\obj\Debug\netcoreapp2.2\Pizzabox.Client.csprojAssemblyReference.cache

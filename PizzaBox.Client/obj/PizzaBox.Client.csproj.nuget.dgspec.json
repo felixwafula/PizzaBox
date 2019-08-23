@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj": {}
+    "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Client\\Pizzabox.client.csproj": {}
   },
   "projects": {
-    "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj": {
+    "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Client\\Pizzabox.client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj",
-        "projectName": "PizzaBox.Client",
-        "projectPath": "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\PizzaBox.Client.csproj",
+        "projectUniqueName": "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Client\\Pizzabox.client.csproj",
+        "projectName": "Pizzabox.client",
+        "projectPath": "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Client\\Pizzabox.client.csproj",
         "packagesPath": "C:\\Users\\waful\\.nuget\\packages\\",
-        "outputPath": "C:\\revature\\project-0\\PizzaBoxApp\\Pizzabox.Client\\obj\\",
+        "outputPath": "C:\\revature\\project-0\\PizzaBoxApp\\PizzaBox.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

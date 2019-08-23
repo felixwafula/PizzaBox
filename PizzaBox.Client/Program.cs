@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using PizzaBox.Domain.Models;
 
 namespace PizzaBox.Client
@@ -7,24 +8,38 @@ namespace PizzaBox.Client
     {
         static void Main(string[] args)
         {
-            //Creating a new user.
-            NewUser user = new NewUser();
-            user.CreateNewUser();
-            //User login.
-            user.UserLogin();
-            //User views and chooses a location.
-            //user makes an order.
-            //user make a custom order.
-            //select a crust.
-            //select  size.
-            //select a set of toppings.
-            //user reviews the current order.
-            //user makes changes.
-            //user confirms order.
-            //User can view a history of past orders.
-            //user signout.
+            var p = new Program();
+            p.authenticate();
+            p.GetSomePizza();
+
+            // user.PastUserOrders();
+            // //user signout.
+            // user.SignOut();
 
         }
+        public void authenticate()
+        {
+            User user = new User();
+            user.UserLogin();
+            //user.CreateNewUser();            
+        }
+        public void GetSomePizza()
+        {
+            Location store = new Location();
+            Order newOrder = new Order();
+            Toppings newToppings = new Toppings();
+            Pizza pizzaOrder = new Pizza();
+            store.Store(4, "Likoni St.");
+            store.ViewLocations();
+            store.GetStoreAddress();
+            //pizzaOrder.MakeMyPizza();
+            //newToppings.ChooseToppings();
+            store.MakeOrder();
+            //newOrder.ChangeCurrentOrder();
+            //newOrder.ConfirmOrder();
+            //User can view a history of past orders.
+        }
     }
+
 
 }
